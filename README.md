@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Alan França - (estudante de programação);</p>
+<p align="left">Alan França - (Programming student);</p>
 
 ###
 
